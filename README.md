@@ -1,4 +1,4 @@
-### Senior Support Engineer currently teaching Data/DevOps/Cloud Engineering at [AiCore](https://www.theaicore.com/) ###
+### Content Engineer currently building Data/DevOps/Cloud Engineering projects & content at [AiCore](https://www.theaicore.com/) ###
 
 *Passionate about building and tinkering with things.*<br>
 *Deep hunger to be constantly learning and growing within the right company.*
